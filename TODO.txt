@@ -1,0 +1,14 @@
+TODO
+armstrong numbers  (sum of digit cubes == num) 
+
+Done
+fib - fibunocci type sequenace of 10 given 2 starting values
+count - counts to 10
+tictactoe - play tic-tac-toe both players required
+move - copies a file from one place to another file
+math - Basic Math (+-*/%) - Using case statements
+factorial - calculates the factoral of a number 
+vowels - counts the occurances of vowels in a file
+prime - given a number finds if prime
+primesto - finds the primes up to a given number numbers over 100 are not recommended.
+armstrong - armstrong numbers (sum of digit cubes == num) 
